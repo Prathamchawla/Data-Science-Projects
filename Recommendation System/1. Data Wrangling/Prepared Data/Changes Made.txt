@@ -1,4 +1,4 @@
 1. Look for the duplicate Track_id in Music.info file 
 2. If any then remove the duplicate values.
 3. We sort the year of songs in Music Info file and play count in the User Listening History file in ascending order.
-4. These files are saved in CSV-UTF-8 format so we saved them in simple CSV format.
+4. These files are saved in CSV-UTF-8 format so I saved them in simple CSV format.

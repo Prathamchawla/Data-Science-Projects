@@ -14,8 +14,8 @@ Model Evaluation: Models are evaluated using various metrics to assess their per
 
 Model Deployment: Once a satisfactory model is developed, it needs to be deployed in a production environment where it can make predictions on new data.
 
-# I started with the data collection and then perfrom the ETL Process with help of Business Intelligence Tools(SSIS(SQL Server Integration Services) and SSMS(SQL Server Managment Studio)).
-# After completing the ETL process, We can do Analysis and Visualization with help of Power BI and Move towards Modeling.
-# After Modeling,Model Evaluation is necessary for checking the accuracy of the model.
-# Once the evaluation is done after that we can create a Web API using Flask and Deploy our Model
-
+I started with the data collection and then perfrom the ETL Process with help of Business Intelligence Tools(SSIS(SQL Server Integration Services) and SSMS(SQL Server Managment Studio)).
+After completing the ETL process, We can do Analysis and Visualization with help of Power BI and Move towards Modeling.
+After Modeling,Model Evaluation is necessary for checking the accuracy of the model.
+Once the evaluation is done after that we can create a Web API using Flask and Deploy our Model
+--
